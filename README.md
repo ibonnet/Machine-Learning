@@ -7,7 +7,7 @@ This respository contains the assignments for the <b>Machine Learning</b> course
 Using 50,000 IMDB movie reviews, we will select a model to predict movie sentiment.
 
 <li>
-<a href="">Files here</a>
+<a href="https://github.com/ibonnet/Machine-Learning/tree/main/Assignment2">Files here</a>
 </li>
 <li>
 <a href="">Jupyter notebook</a>
